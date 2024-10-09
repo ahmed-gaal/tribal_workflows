@@ -2,3 +2,12 @@
 
 apache-airflow-providers-snowflake==5.5.1
 apache-airflow-providers-mysql==5.6.1
+pandas
+numpy
+selenium
+bs4
+boto3
+fake-useragent
+alive-progress
+openpyxl
+s3fs
